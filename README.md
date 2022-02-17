@@ -6,6 +6,9 @@
 ### Hi there 👋  
 Check😄 >>> [みかすずポータル](https://greenry.jp "みかすずポータル")
 
+## currently work👯
+[![しんきょく](http://img.youtube.com/vi/bo55JxQ_EX4/0.jpg)](https://www.youtube.com/watch?v=bo55JxQ_EX4)
+
 ## 経歴
 - 2011～2015 Sler  
   ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, PL/SQL, WindowsForm(VB.NET)
