@@ -8,11 +8,11 @@
 
 ## 経歴
 - 2011～2015 Sler  
-  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, PL/SQL
+  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, PL/SQL, WindowsForm(VB.NET)
 - 2015～2020 非IT企業のシステム部門  
-  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle
+  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, WindowsForm(VB.NET)
 - 2020～ Sler  
-  ASP.NET Core(C#.NET), Postgresql, Node.js, WindowsForm(C#)
+  ASP.NET Core(C#.NET), Postgresql, Node.js, Kotlin, WindowsForm(C#.NET)
 
 😄
 
