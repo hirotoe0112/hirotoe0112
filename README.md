@@ -28,7 +28,7 @@ Check😄 >>> [みかすずポータル](https://greenry.jp "みかすずポー�
 
 🤔
 
-## 保有資格
+## certification😄
 - Oracle Master Gold 10g
 - Oracle Master Gold 11g
 - 基本情報技術者(FE)
