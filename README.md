@@ -1,10 +1,10 @@
-## Overview👋
+## Overview🙃
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirotoe0112&show_icons=true&count_private=true&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirotoe0112&layout=compact&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Hi there 👋  
-Check😄 >>> [みかすずポータル](https://greenry.jp "みかすずポータル")
+Check🤣 >>> [みかすずポータル](https://greenry.jp "みかすずポータル")
 
 ## currently work👯
 [![しんきょく](http://img.youtube.com/vi/bo55JxQ_EX4/0.jpg)](https://www.youtube.com/watch?v=bo55JxQ_EX4)
@@ -17,7 +17,7 @@ Check😄 >>> [みかすずポータル](https://greenry.jp "みかすずポー�
 - 2020～ Sler  
   ASP.NET Core(C#.NET), Postgresql, Node.js, Kotlin, WindowsForm(C#.NET)
 
-😄
+🤩
 
 ## currently learning
 - Node.js
@@ -26,9 +26,9 @@ Check😄 >>> [みかすずポータル](https://greenry.jp "みかすずポー�
 - Domain-Driven Design
 - Service Oriented Architecture
 
-🤔
+🤔🥞🍖🍔🍒
 
-## certification😄
+## certification⭐⭐⭐
 - Oracle Master Gold 10g
 - Oracle Master Gold 11g
 - 基本情報技術者(FE)
