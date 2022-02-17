@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋  
-[みかすずポータル](https://greenry.jp "みかすずポータル")
+Check😄 >>> [みかすずポータル](https://greenry.jp "みかすずポータル")
 
 ## 経歴
 - 2011～2015 Sler  
