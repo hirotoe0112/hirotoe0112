@@ -36,6 +36,7 @@
 - AWS Certified Cloud Practitioner(CLF-C01)
 - FP2級
 - 行政書士
+- 漢字検定準1級
 <!--
 **hirotoe0112/hirotoe0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
