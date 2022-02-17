@@ -1,10 +1,40 @@
-## Overview
-
+## Overview👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirotoe0112&show_icons=true&count_private=true&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirotoe0112&layout=compact&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ### Hi there 👋
 
+## 経歴
+- 2011～2015 Sler  
+  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, PL/SQL
+- 2015～2020 非IT企業のシステム部門  
+  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle
+- 2020～ Sler  
+  ASP.NET Core(C#.NET), Postgresql, Node.js, WindowsForm(C#)
+
+😄
+
+## currently learning
+- Node.js
+- Vue.js
+- AWS
+- Domain-Driven Design
+- Service Oriented Architecture
+
+🤔
+
+## 保有資格
+- Oracle Master Gold 10g
+- Oracle Master Gold 11g
+- 基本情報技術者(FE)
+- 応用情報技術者(AP)
+- 情報処理安全確保支援士(SC)
+- ネットワークスペシャリスト(NW)
+- データベーススペシャリスト(DB)
+- AWS Certified Cloud Practitioner(CLF-C01)
+- FP2級
+- 行政書士
 <!--
 **hirotoe0112/hirotoe0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
