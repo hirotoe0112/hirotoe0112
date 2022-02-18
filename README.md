@@ -6,7 +6,7 @@
 ### Hi there 👋  
 Check🤣 >>> [みかすずポータル](https://greenry.jp "みかすずポータル")
 
-## currently work👯
+## currently work
 [![しんきょく](http://img.youtube.com/vi/bo55JxQ_EX4/0.jpg)](https://www.youtube.com/watch?v=bo55JxQ_EX4)
 
 ## 経歴
@@ -17,18 +17,15 @@ Check🤣 >>> [みかすずポータル](https://greenry.jp "みかすずポー�
 - 2020～ Sler  
   ASP.NET Core(C#.NET), Postgresql, Node.js, Kotlin, WindowsForm(C#.NET)
 
-🤩
-
-## currently learning
+## currently learning🤔
 - Node.js
 - Vue.js
 - AWS
+- TypeScript
 - Domain-Driven Design
 - Service Oriented Architecture
 
-🤔🥞🍖🍔🍒
-
-## certification⭐⭐⭐
+## certification⭐
 - Oracle Master Gold 10g
 - Oracle Master Gold 11g
 - 基本情報技術者(FE)
