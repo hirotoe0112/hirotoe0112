@@ -39,6 +39,7 @@ Check🤣 >>> [みかすずポータル](https://greenry.jp "みかすずポー�
 - 漢字検定準1級
 
 ## 💕love💕
+- z3ta
 - Sylenth1
 <!--
 **hirotoe0112/hirotoe0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
