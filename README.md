@@ -10,11 +10,11 @@ Check🤣 >>> [みかすずポータル](https://greenry.jp "みかすずポー�
 
 ## 経歴
 - 2011～2015 Sler  
-  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, PL/SQL, WindowsForm(VB.NET)
-- 2015～2020 非IT企業のシステム部門  
-  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, WindowsForm(VB.NET)
+  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, PL/SQL, WinForms(VB.NET)
+- 2015～2020 bank  
+  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, WinForms(VB.NET)
 - 2020～ Sler  
-  ASP.NET Core(C#.NET), Postgresql, Node.js, Kotlin, WindowsForm(C#.NET)
+  ASP.NET Core(C#.NET), Postgresql, Node.js, Kotlin, WinForms(C#.NET)
 
 ## currently learning🤔
 - Node.js
