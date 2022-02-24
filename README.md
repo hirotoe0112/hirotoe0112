@@ -5,8 +5,8 @@
 ### Hi there 👋  
 Check🤣 >>> [みかすずポータル](https://greenry.jp "みかすずポータル")
 
-## currently work
-[![しんきょく](http://img.youtube.com/vi/bo55JxQ_EX4/0.jpg)](https://www.youtube.com/watch?v=bo55JxQ_EX4)
+<!--## currently work
+[![しんきょく](http://img.youtube.com/vi/bo55JxQ_EX4/0.jpg)](https://www.youtube.com/watch?v=bo55JxQ_EX4)-->
 
 ## 経歴
 - 2011～2015 Sler  
@@ -37,9 +37,10 @@ Check🤣 >>> [みかすずポータル](https://greenry.jp "みかすずポー�
 - 行政書士
 - 漢字検定準1級
 
-## 💕love💕
+<!--## 💕love💕
 - z3ta
-- Sylenth1
+- Sylenth1-->
+
 <!--
 **hirotoe0112/hirotoe0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
