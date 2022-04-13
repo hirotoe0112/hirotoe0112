@@ -9,16 +9,17 @@ Check🤣 >>> [みかすずポータル](https://greenry.jp "みかすずポー�
 [![しんきょく](http://img.youtube.com/vi/bo55JxQ_EX4/0.jpg)](https://www.youtube.com/watch?v=bo55JxQ_EX4)-->
 
 ## 経歴
-- 2011～2015 Sler  
+- 2011～2015 IT  
   ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, PL/SQL, WinForms(VB.NET)
 - 2015～2020 bank  
   ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, WinForms(VB.NET)
-- 2020～ Sler  
+- 2020～ IT  
   ASP.NET Core(C#.NET), Postgresql, Node.js, Kotlin, WinForms(C#.NET)
 
 ## currently learning🤔
 - Node.js
 - Vue.js
+- Electron
 - AWS
 - TypeScript
 - Domain-Driven Design
