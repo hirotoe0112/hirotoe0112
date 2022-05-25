@@ -34,7 +34,9 @@ Check🤣 >>> [みかすずポータル](https://greenry.jp "みかすずポー�
 - ネットワークスペシャリスト(NW)
 - データベーススペシャリスト(DB)
 - AWS Certified Cloud Practitioner(CLF-C01)
-- AWS Certified Solutions Architect(SAA-C02)
+- AWS Certified Solutions Architect – Associate(SAA-C02)
+- AWS Certified Developer - Associate(DVA-C01)
+- AWS Certified SysOps Administrator - Associate(SOA-C02)
 - FP2級
 - 行政書士
 - 漢字検定準1級
