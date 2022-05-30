@@ -1,31 +1,26 @@
-## Overview🙃
+## Overview
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirotoe0112&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirotoe0112&show_icons=true&count_private=true&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋  
-Check🤣 >>> [みかすずポータル](https://greenry.jp "みかすずポータル")
+## Official Website  
+[みかすずポータル](https://greenry.jp "みかすずポータル")
 
-<!--## currently work
-[![しんきょく](http://img.youtube.com/vi/bo55JxQ_EX4/0.jpg)](https://www.youtube.com/watch?v=bo55JxQ_EX4)-->
+## Skills
+- web application construction
+- full scratch
+- using C#, VB.NET, JavaScript
+- .NET Framework, .NET Core, Node.js
 
-## 経歴
-- 2011～2015 IT  
-  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, PL/SQL, WinForms(VB.NET)
-- 2015～2020 bank  
-  ASP.NET MVC(VB.NET), Pure Javascript, COBOL, Oracle, WinForms(VB.NET)
-- 2020～ IT  
-  ASP.NET Core(C#.NET), Postgresql, Node.js, Kotlin, WinForms(C#.NET)
-
-## currently learning🤔
+## Currently learning
 - Node.js
 - Vue.js
 - Electron
 - AWS
 - TypeScript
 - Domain-Driven Design
-- Service Oriented Architecture
+- Microservices Architecture
 
-## certification⭐
+## Certification
 - Oracle Master Gold 10g
 - Oracle Master Gold 11g
 - 基本情報技術者(FE)
