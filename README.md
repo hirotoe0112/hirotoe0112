@@ -5,13 +5,13 @@
 ## Official Website  
 [みかすずポータル](https://greenry.jp "みかすずポータル")
 
-## Skills
-- web application construction
-- full scratch
-- using C#, VB.NET, JavaScript
-- .NET Framework, .NET Core, Node.js
+## Computer Skills
+- C#、VB.NET、JavaScript、HTML&CSS、COBOL
+- ASP.NET MVC、ASP.NET Core、Node.js、jQuery
+- Oracle、PostgreSQL、MySQL
+- Git、Subversion、Redmine、Slack
 
-## Currently learning
+## Currently Learning
 - Node.js
 - Vue.js
 - Electron
@@ -20,7 +20,7 @@
 - Domain-Driven Design
 - Microservices Architecture
 
-## Certification
+## Qualifications
 - Oracle Master Gold 10g
 - Oracle Master Gold 11g
 - 基本情報技術者(FE)
