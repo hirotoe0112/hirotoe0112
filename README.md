@@ -6,19 +6,22 @@
 [みかすずポータル](https://greenry.jp "みかすずポータル")
 
 ## Computer Skills
-- C#、VB.NET、JavaScript、HTML&CSS、COBOL
-- ASP.NET MVC、ASP.NET Core、Node.js、jQuery
-- Oracle、PostgreSQL、MySQL
-- Git、Subversion、Redmine、Slack
+- C#, VB.NET, JavaScript, TypeScript, HTML&CSS、COBOL
+- ASP.NET MVC, ASP.NET Core, Node.js, jQuery
+- Oracle, PostgreSQL, MySQL
+- AWS
+- Git, Subversion, Redmine, Slack
 
-## Currently Learning
+## Learning
 - Node.js
 - Vue.js
+- React
 - Electron
 - AWS
 - TypeScript
 - Domain-Driven Design
 - Microservices Architecture
+- Design Patterns
 
 ## Qualifications
 - Oracle Master Gold 10g
