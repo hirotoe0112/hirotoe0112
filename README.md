@@ -38,6 +38,7 @@
 - AWS Certified Database - Specialty(DBS-C01)
 - AWS Certified Security - Specialty(SCS-C01)
 - AWS Certified Solutions Architect - Professional(SAP-C02)
+- AWS Certified DevOps Engineer - Professional(DOP-C02)
 - FP2級
 - 行政書士
 - 漢字検定準1級
