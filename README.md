@@ -41,6 +41,7 @@
 - AWS Certified DevOps Engineer - Professional(DOP-C02)
 - AWS Certified Data Analytics - Specialty(DAS-C01)
 - AWS Certified Machine Learning - Specialty(MLS-C01)
+- AWS Certified SAP on AWS - Specialty(PAS-C01)
 - FP2級
 - 行政書士
 - 漢字検定準1級
