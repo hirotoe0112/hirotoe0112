@@ -13,15 +13,8 @@
 - Git, Subversion, Redmine, Slack
 
 ## Learning
-- Node.js
-- Vue.js
-- React
-- Electron
-- AWS
-- TypeScript
-- Domain-Driven Design
-- Microservices Architecture
-- Design Patterns
+- Google Cloud
+- Python
 
 ## Qualifications
 - Oracle Master Gold 10g
