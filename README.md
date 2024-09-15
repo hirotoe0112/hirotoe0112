@@ -6,7 +6,7 @@
 [みかすずポータル](https://greenry.jp "みかすずポータル")
 
 ## Computer Skills
-- C#, VB.NET, JavaScript, TypeScript, HTML&CSS、COBOL
+- C#, JavaScript, TypeScript, Python, VB.NET, HTML&CSS、COBOL
 - ASP.NET MVC, ASP.NET Core, Node.js, jQuery
 - Oracle, PostgreSQL, MySQL
 - AWS
@@ -14,7 +14,7 @@
 
 ## Learning
 - Google Cloud
-- Python
+- Golang, Rust
 
 ## Qualifications
 - Oracle Master Gold 10g
