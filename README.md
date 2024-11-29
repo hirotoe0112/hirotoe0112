@@ -40,6 +40,7 @@
 - Google Cloud Certified - Associate Cloud Engineer
 - Google Cloud Certified - Professional Cloud Database Engineer
 - Google Cloud Certified - Professional Data Engineer
+- Google Cloud Certified - Professional Machine Learning Engineer
 - FP2級
 - 行政書士
 - 漢字検定準1級
