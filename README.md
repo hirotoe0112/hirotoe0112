@@ -36,6 +36,7 @@
 - AWS Certified Machine Learning - Specialty(MLS-C01)
 - AWS Certified SAP on AWS - Specialty(PAS-C01)
 - AWS Certified Advanced Networking - Specialty(ANS-C01)
+- AWS Certified Data Engineer - Associate(DEA-C01)
 - Google Cloud Certified - Cloud Digital Leader
 - Google Cloud Certified - Associate Cloud Engineer
 - Google Cloud Certified - Professional Cloud Database Engineer
