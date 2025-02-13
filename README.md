@@ -38,6 +38,7 @@
 - AWS Certified Advanced Networking - Specialty(ANS-C01)
 - AWS Certified Data Engineer - Associate(DEA-C01)
 - AWS Certified AI Practitioner(AIF-C01)
+- AWS Certified Machine Learning Engineer - Associate(MLA-C01)
 - Google Cloud Certified - Cloud Digital Leader
 - Google Cloud Certified - Associate Cloud Engineer
 - Google Cloud Certified - Professional Cloud Database Engineer
