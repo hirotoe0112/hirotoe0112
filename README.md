@@ -3,13 +3,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirotoe0112&show_icons=true&count_private=true&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Website
-<a href="https://greenry.jp" target="_blank"><img alt="My Website" src=https://img.shields.io/badge/My Website-みかすずポータル-555555?style=for-the-badge></a>
+<a href="https://greenry.jp" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/My Website-みかすずポータル-555555?style=for-the-badge"></a>
 
 ## Tech Stack
 
 <!-- カラーチャート：https://www.tagindex.com/color/color_gradation.html -->
 
-### Languages
+<!-- Languages -->
 <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C_sharp-385572"></a>
 <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-476a8d"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5580aa"></a>
@@ -18,21 +18,21 @@
 <a href="https://developer.mozilla.org/ja/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-aabfd5"></a>
 <img src="https://img.shields.io/badge/COBOL-c7d5e2"></a>
 
-### Frameworks
+<!-- Frameworks -->
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-387255"></a>
 <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-478d6a"></a>
 <a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-55aa80"></a>
 <a href="https://astro.build/" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro-72b895"></a>
 
-### Databases
+<!-- Databases -->
 <a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-725538"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-8d6a47"></a>
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-aa8055"></a>
 
-### Cloud
+<!-- Cloud -->
 <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-723855"></a>
 
-### Tools
+<!-- Tools -->
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-727238"></a>
 <a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-8d8d47"></a>
 <a href="https://subversion.apache.org/" target="_blank"><img alt="Subversion" src="https://img.shields.io/badge/Subversion-aaaa55"></a>
