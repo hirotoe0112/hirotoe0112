@@ -6,13 +6,22 @@
 [みかすずポータル](https://greenry.jp "みかすずポータル")
 
 ## Tech Stack
-<a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C_sharp-blue"></a>
-<a href="https://developer.mozilla.org/ja/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-blue"></a>
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue"></a>
-<img alt="VB.net" src="https://img.shields.io/badge/VB.net-blue">
 
-- C#, JavaScript, TypeScript, Python, VB.NET, HTML&CSS、COBOL
-- ASP.NET MVC, ASP.NET Core, Node.js, jQuery
+### Language
+<a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C_sharp-385572"></a>
+<a href="https://developer.mozilla.org/ja/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-476a8d"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5580aa"></a>
+<img alt="VB.net" src="https://img.shields.io/badge/VB.net-7295b8">
+<a href="https://developer.mozilla.org/ja/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-8daac7"></a>
+<a href="https://developer.mozilla.org/ja/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-aabfd5"></a>
+<img src="https://img.shields.io/badge/COBOL-c7d5e2"></a>
+
+### Framework
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-blue"></a>
+<a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-blue"></a>
+<a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-blue"></a>
+
+### Database
 - Oracle, PostgreSQL, MySQL
 - AWS
 - Git, Subversion, Redmine, Slack
