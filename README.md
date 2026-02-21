@@ -84,6 +84,9 @@
 - 行政書士
 - 漢字検定準1級
 
+## Now Reading
+<a href="https://www.goodreads.com/user/show/169300832-suzuka-mikami"><img src="https://goodreads-readme.vercel.app/api/book?id=169300832-suzuka-mikami" alt="GoodReads reading" width="350" /></a>
+
 <!--## 💕love💕
 - z3ta
 - Sylenth1-->
