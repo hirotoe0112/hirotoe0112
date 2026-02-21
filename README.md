@@ -6,7 +6,7 @@
 [みかすずポータル](https://greenry.jp "みかすずポータル")
 
 ## Tech Stack
-<a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C#-blue"></a>
+<a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C_sharp-blue"></a>
 <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-blue"></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue"></a>
 <img alt="VB.net" src="https://img.shields.io/badge/VB.net-blue">
