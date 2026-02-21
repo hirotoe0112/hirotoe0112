@@ -1,12 +1,16 @@
 ## Overview
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirotoe0112&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirotoe0112)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirotoe0112&show_icons=true&count_private=true&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Website  
 [みかすずポータル](https://greenry.jp "みかすずポータル")
 
-## Computer Skills
+## Tech Stack
+[https://learn.microsoft.com/ja-jp/dotnet/csharp/](https://img.shields.io/badge/C#-blue)
+[https://developer.mozilla.org/ja/docs/Web/JavaScript](https://img.shields.io/badge/JavaScript-blue)
+[https://www.typescriptlang.org/](https://img.shields.io/badge/TypeScript-blue)
+
+
 - C#, JavaScript, TypeScript, Python, VB.NET, HTML&CSS、COBOL
 - ASP.NET MVC, ASP.NET Core, Node.js, jQuery
 - Oracle, PostgreSQL, MySQL
