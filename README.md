@@ -11,34 +11,36 @@
 
 <!-- Languages -->
 <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C_sharp-385572"></a>
-<a href="https://developer.mozilla.org/ja/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-476a8d?logo=javascript"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5580aa"></a>
-<img alt="VB.net" src="https://img.shields.io/badge/VB.net-7295b8">
-<a href="https://developer.mozilla.org/ja/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-8daac7"></a>
-<a href="https://developer.mozilla.org/ja/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-aabfd5"></a>
-<img src="https://img.shields.io/badge/COBOL-c7d5e2"></a>
+<a href="https://developer.mozilla.org/ja/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-385572?logo=javascript"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-385572?logo=typescript"></a>
+<img alt="VB.net" src="https://img.shields.io/badge/VB.net-385572">
+<a href="https://developer.mozilla.org/ja/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-385572?logo=html5"></a>
+<a href="https://developer.mozilla.org/ja/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-385572?logo=css"></a>
+<img src="https://img.shields.io/badge/COBOL-385572"></a>
 
 <!-- Frameworks -->
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-387255"></a>
-<a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-478d6a"></a>
-<a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-55aa80"></a>
-<a href="https://astro.build/" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro-72b895"></a>
+<a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-387255?logo=nodedotjs"></a>
+<a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-387255?logo=jquery"></a>
+<a href="https://astro.build/" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro-387255?logo=astro"></a>
 
 <!-- Databases -->
 <a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-725538"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-8d6a47"></a>
-<a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-aa8055"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-725538?logo=postgresql"></a>
+<a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-725538?logo=mysql"></a>
+<a href="https://www.prisma.io/" target="_blank"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-725538?logo=prisma"></a>
+<a href="https://typeorm.io/" target="_blank"><img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-725538?logo=typeorm"></a>
 
 <!-- Cloud -->
 <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-723855"></a>
 
 <!-- Tools -->
-<a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-727238"></a>
-<a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-8d8d47"></a>
-<a href="https://subversion.apache.org/" target="_blank"><img alt="Subversion" src="https://img.shields.io/badge/Subversion-aaaa55"></a>
-<a href="https://www.redmine.org/" target="_blank"><img alt="Redmine" src="https://img.shields.io/badge/Redmine-b8b872"></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/Jira-c7c78d"></a>
-<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-d5d5aa"></a>
+<a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-727238?logo=git"></a>
+<a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-727238"></a>
+<a href="https://subversion.apache.org/" target="_blank"><img alt="Subversion" src="https://img.shields.io/badge/Subversion-727238?logo=subversion"></a>
+<a href="https://www.redmine.org/" target="_blank"><img alt="Redmine" src="https://img.shields.io/badge/Redmine-727238?logo=redmine"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/Jira-727238?logo=jira"></a>
+<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-727238?logo=docker"></a>
 
 ## Learning
 - Google Cloud
