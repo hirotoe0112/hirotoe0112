@@ -2,10 +2,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirotoe0112&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirotoe0112&show_icons=true&count_private=true&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Website  
-[みかすずポータル](https://greenry.jp "みかすずポータル")
+## Website
+<a href="https://greenry.jp" target="_blank"><img alt="My Website" src=https://img.shields.io/badge/My Website-みかすずポータル-555555?style=for-the-badge></a>
 
 ## Tech Stack
+
+<!-- カラーチャート：https://www.tagindex.com/color/color_gradation.html -->
 
 ### Languages
 <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C_sharp-385572"></a>
@@ -20,6 +22,7 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-387255"></a>
 <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-478d6a"></a>
 <a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-55aa80"></a>
+<a href="https://astro.build/" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro-72b895"></a>
 
 ### Databases
 <a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-725538"></a>
