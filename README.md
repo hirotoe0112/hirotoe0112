@@ -21,8 +21,10 @@
 <!-- Frameworks -->
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-387255"></a>
 <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-387255?logo=nodedotjs"></a>
-<a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-387255?logo=jquery"></a>
+<a href="https://hono.dev/" target="_blank"><img alt="Hono" src="https://img.shields.io/badge/Hono-387255?logo=hono"></a>
+<a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-387255?logo=jest"></a>
 <a href="https://astro.build/" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro-387255?logo=astro"></a>
+<a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-387255?logo=jquery"></a>
 
 <!-- Databases -->
 <a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-725538"></a>
@@ -36,6 +38,7 @@
 
 <!-- Tools -->
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-727238?logo=git"></a>
+<a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-727238?logo=github"></a>
 <a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-727238"></a>
 <a href="https://subversion.apache.org/" target="_blank"><img alt="Subversion" src="https://img.shields.io/badge/Subversion-727238?logo=subversion"></a>
 <a href="https://www.redmine.org/" target="_blank"><img alt="Redmine" src="https://img.shields.io/badge/Redmine-727238?logo=redmine"></a>
