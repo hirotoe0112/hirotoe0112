@@ -7,7 +7,7 @@
 
 ## Tech Stack
 
-### Language
+### Languages
 <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C_sharp-385572"></a>
 <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-476a8d"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5580aa"></a>
@@ -16,15 +16,26 @@
 <a href="https://developer.mozilla.org/ja/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-aabfd5"></a>
 <img src="https://img.shields.io/badge/COBOL-c7d5e2"></a>
 
-### Framework
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-blue"></a>
-<a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-blue"></a>
-<a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-blue"></a>
+### Frameworks
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-387255"></a>
+<a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-478d6a"></a>
+<a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-55aa80"></a>
 
-### Database
-- Oracle, PostgreSQL, MySQL
-- AWS
-- Git, Subversion, Redmine, Slack
+### Databases
+<a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-725538"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-8d6a47"></a>
+<a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-aa8055"></a>
+
+### Cloud
+<a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-723855"></a>
+
+### Tools
+<a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-727238"></a>
+<a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-8d8d47"></a>
+<a href="https://subversion.apache.org/" target="_blank"><img alt="Subversion" src="https://img.shields.io/badge/Subversion-aaaa55"></a>
+<a href="https://www.redmine.org/" target="_blank"><img alt="Redmine" src="https://img.shields.io/badge/Redmine-b8b872"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/Jira-c7c78d"></a>
+<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-d5d5aa"></a>
 
 ## Learning
 - Google Cloud
