@@ -28,9 +28,9 @@
 <a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-387255?logo=jquery"></a>
 
 <!-- Databases -->
-<a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-725538"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-725538?logo=postgresql"></a>
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-725538?logo=mysql"></a>
+<a href="https://www.oracle.com/database/" target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-725538"></a>
 <a href="https://www.prisma.io/" target="_blank"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-725538?logo=prisma"></a>
 <a href="https://typeorm.io/" target="_blank"><img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-725538?logo=typeorm"></a>
 
@@ -41,10 +41,10 @@
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-727238?logo=git"></a>
 <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-727238?logo=github"></a>
 <a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-727238"></a>
+<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-727238?logo=docker"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/Jira-727238?logo=jira"></a>
 <a href="https://subversion.apache.org/" target="_blank"><img alt="Subversion" src="https://img.shields.io/badge/Subversion-727238?logo=subversion"></a>
 <a href="https://www.redmine.org/" target="_blank"><img alt="Redmine" src="https://img.shields.io/badge/Redmine-727238?logo=redmine"></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/Jira-727238?logo=jira"></a>
-<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-727238?logo=docker"></a>
 
 ## Learning
 - Google Cloud
