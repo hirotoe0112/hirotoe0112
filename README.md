@@ -11,7 +11,7 @@
 
 <!-- Languages -->
 <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C_sharp-385572"></a>
-<a href="https://developer.mozilla.org/ja/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-476a8d"></a>
+<a href="https://developer.mozilla.org/ja/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-476a8d?logo=javascript"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5580aa"></a>
 <img alt="VB.net" src="https://img.shields.io/badge/VB.net-7295b8">
 <a href="https://developer.mozilla.org/ja/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-8daac7"></a>
