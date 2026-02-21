@@ -22,6 +22,7 @@
 <!-- Frameworks -->
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-387255"></a>
 <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-387255?logo=nodedotjs"></a>
+<a href="https://fastify.dev/" target="_blank"><img alt="Fastify" src="https://img.shields.io/badge/Fastify-387255?logo=fastify"></a>
 <a href="https://hono.dev/" target="_blank"><img alt="Hono" src="https://img.shields.io/badge/Hono-387255?logo=hono"></a>
 <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-387255?logo=jest"></a>
 <a href="https://vitest.dev/" target="_blank"><img alt="Vitest" src="https://img.shields.io/badge/Vitest-387255?logo=vitest"></a>
