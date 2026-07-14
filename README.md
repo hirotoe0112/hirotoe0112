@@ -75,11 +75,13 @@
 - AWS Certified Data Engineer - Associate(DEA-C01)
 - AWS Certified AI Practitioner(AIF-C01)
 - AWS Certified Machine Learning Engineer - Associate(MLA-C01)
+- AWS Certified Generative AI Developer - Professional(AIP-C01)
 - Google Cloud Certified - Cloud Digital Leader
 - Google Cloud Certified - Associate Cloud Engineer
 - Google Cloud Certified - Professional Cloud Database Engineer
 - Google Cloud Certified - Professional Data Engineer
 - Google Cloud Certified - Professional Machine Learning Engineer
+- Claude Certified Architect – Foundations(CCAR-F)
 - FP2級
 - 行政書士
 - 漢字検定準1級
